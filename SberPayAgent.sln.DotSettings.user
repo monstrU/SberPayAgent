@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=991032b0_002D45b4_002D49c8_002Da51e_002D3634cf362aeb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SberPayAgentTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::E3C47DBA-B2AE-42BC-AE11-683585E5ECB4::net5.0::SberPayTests.SberPayAgentTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

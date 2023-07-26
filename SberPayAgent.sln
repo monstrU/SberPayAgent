@@ -5,6 +5,14 @@ VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SberPayAgent.Interfaces", "SberPayAgent.Interfaces\SberPayAgent.Interfaces.csproj", "{C62B0724-5BA7-4453-B848-6CFF48BE2A27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SberPayTests", "SberPayTests\SberPayTests.csproj", "{E3C47DBA-B2AE-42BC-AE11-683585E5ECB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SberPayAgent.Model", "SberPayAgent.Model\SberPayAgent.Model.csproj", "{CAB29961-3CBB-41E7-8B0B-98CC5A6AECE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SberPayAgent.Implementations", "SberPayAgent.Implementations\SberPayAgent.Implementations.csproj", "{FDBD8A82-E0A9-4694-9E30-D18EAE72EE8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SberPayAgent.WebModel", "SberPayAgent.WebModel\SberPayAgent.WebModel.csproj", "{B17B0EDB-E52D-4970-8C7A-C6742E7587CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +23,22 @@ Global
 		{C62B0724-5BA7-4453-B848-6CFF48BE2A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C62B0724-5BA7-4453-B848-6CFF48BE2A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C62B0724-5BA7-4453-B848-6CFF48BE2A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C47DBA-B2AE-42BC-AE11-683585E5ECB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C47DBA-B2AE-42BC-AE11-683585E5ECB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C47DBA-B2AE-42BC-AE11-683585E5ECB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C47DBA-B2AE-42BC-AE11-683585E5ECB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB29961-3CBB-41E7-8B0B-98CC5A6AECE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB29961-3CBB-41E7-8B0B-98CC5A6AECE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB29961-3CBB-41E7-8B0B-98CC5A6AECE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB29961-3CBB-41E7-8B0B-98CC5A6AECE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBD8A82-E0A9-4694-9E30-D18EAE72EE8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBD8A82-E0A9-4694-9E30-D18EAE72EE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBD8A82-E0A9-4694-9E30-D18EAE72EE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBD8A82-E0A9-4694-9E30-D18EAE72EE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17B0EDB-E52D-4970-8C7A-C6742E7587CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17B0EDB-E52D-4970-8C7A-C6742E7587CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17B0EDB-E52D-4970-8C7A-C6742E7587CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17B0EDB-E52D-4970-8C7A-C6742E7587CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
